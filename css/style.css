@@ -19,3 +19,12 @@ body{
 #titolo2{
     margin-bottom: 0px;
 }
+
+#sfondo-giallo{
+    background-color: yellow;
+}
+
+ul{
+    padding: 20px;
+}
+
