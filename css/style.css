@@ -28,3 +28,33 @@ ul{
     padding: 20px;
 }
 
+#colonna1{
+    background-color: rgb(41, 166, 250);
+    color: white;
+}
+
+#colonna2{
+    background-color: lightblue;
+}
+
+#quadrato1{
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+    box-sizing: border-box;
+    display: block;
+    border-color: black;
+    background-image: url(../img/monitor.jpg);
+}
+
+#quadrato2{
+    height: 200px;
+    width: 200px;
+    border-style: solid;
+    border-width: 1px;
+    box-sizing: border-box;
+    display: block;
+    border-color: black;
+    background-image: url(../img/graph.jpg);
+}
