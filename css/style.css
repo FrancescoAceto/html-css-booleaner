@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+}
+
+#pattern{
+    background-color: rgb(41, 166, 250);
+
+    background-image: url(../img/pattern.png);
+
+    height: 130px;
+}
+
+#titolo{
+    height: 50px;
+    width: 400px;
+    margin-top: 70px;
+}
+
+#titolo2{
+    margin-bottom: 0px;
+}
